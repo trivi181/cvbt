@@ -1,5 +1,5 @@
 # Hồ Sơ Cá Nhân - Phan Trí Vĩ
-![Ảnh đại diện](ava.jpg)
+<img src="ava.jpg" alt="Ảnh đại diện" width="150" height="150">
 
 Xin chào! Tôi là Phan Trí Vĩ, một Lập trình viên với sự đam mê về lập trình mobile. :+1:
 
@@ -22,13 +22,13 @@ viết giao diện, lấy data bằng php
 
 ## Học Vấn
 
-- **Bằng Cấp:** [Kỹ sư CNTT], [Trường Đại Học Công NGhệ TP.HCM], [2024]
+- **Bằng Cấp:** Trường Đại Học Công NGhệ TP.HCM 2024
 
 ## Liên Hệ
 
 Nếu bạn muốn liên hệ hoặc biết thêm về tôi, hãy sử dụng các kênh sau:
 
-- Email: [phanvi2002y@gmail.com]
+- Email: phanvi2002y@gmail.com
 
 ## Ghi Chú
 
