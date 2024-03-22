@@ -1,7 +1,7 @@
 # Hồ Sơ Cá Nhân - Phan Trí Vĩ
 ![Ảnh đại diện](ava.jpg)
 
-Xin chào! Tôi là Phan Trí Vĩ, một Lập trình viên với sự đam mê về lập trình mobile.:+1:
+Xin chào! Tôi là Phan Trí Vĩ, một Lập trình viên với sự đam mê về lập trình mobile. :+1:
 
 ## Giới Thiệu
 
@@ -32,6 +32,6 @@ Nếu bạn muốn liên hệ hoặc biết thêm về tôi, hãy sử dụng c�
 
 ## Ghi Chú
 
-Đây là một bản tóm tắt ngắn gọn về CV của tôi. Nếu bạn quan tâm đến chi tiết hoặc có câu hỏi cụ thể, hãy liên hệ với tôi để được trao đổi thêm.:green_heart:
+Đây là một bản tóm tắt ngắn gọn về CV của tôi. Nếu bạn quan tâm đến chi tiết hoặc có câu hỏi cụ thể, hãy liên hệ với tôi để được trao đổi thêm. :green_heart:
 
-Cảm ơn bạn đã dành thời gian để xem xét CV của tôi!:black_heart::blue_heart:
+Cảm ơn bạn đã dành thời gian để xem xét CV của tôi! :black_heart: :blue_heart:
